@@ -1,2 +1,2 @@
 # mean-stack-registration-login-example....
-hello
+https://codeclimate.com/github/{{mamtabhardwaj12}}/{{login-registration-cicd}}.png
